@@ -3,6 +3,7 @@
   "plugins": [
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-miot/main/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-subsonic/main/plugin.json",
-    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-dav/main/plugin.json"
+    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-dav/main/plugin.json",
+    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-cloudflared/refs/heads/main/plugin.json"
   ]
 }
