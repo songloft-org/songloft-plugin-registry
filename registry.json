@@ -6,6 +6,7 @@
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-dav/main/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-tag/main/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-cloudflared/refs/heads/main/plugin.json",
-    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-hostc/refs/heads/main/plugin.json"
+    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-hostc/refs/heads/main/plugin.json",
+    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-iwebplayer/main/plugin.json"
   ]
 }
