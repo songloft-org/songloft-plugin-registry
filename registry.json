@@ -10,5 +10,6 @@
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-iwebplayer/main/plugin.json",
     "https://raw.githubusercontent.com/mimusic-org/mimusic-jsplugin-releases/audiobook/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-stats/main/plugin.json"
+    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-mpd/main/plugin.json"
   ]
 }
