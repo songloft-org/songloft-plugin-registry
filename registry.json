@@ -13,6 +13,7 @@
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-mpd/main/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-lyrics/main/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-downloader/main/plugin.json",
-    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-radio/main/plugin.json"
+    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-radio/main/plugin.json",
+    "https://raw.githubusercontent.com/songloft-org/songloft-plugin-go-music-dl/main/plugin.json"
   ]
 }
