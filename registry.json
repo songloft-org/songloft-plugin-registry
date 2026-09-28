@@ -22,7 +22,6 @@
     "https://raw.githubusercontent.com/pcyear/pcyear-bridge-release/master/plugin/songloft/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-tagger/main/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-ipod/refs/heads/master/plugin.json",
-    "https://raw.githubusercontent.com/514475844/songloft-plugin-song-organizer/main/plugin.json",
-    "https://raw.githubusercontent.com/514475844/songloft-plugin-watch-mv/main/plugin.json"
+    "https://raw.githubusercontent.com/514475844/songloft-plugin-song-organizer/main/plugin.json"
   ]
 }
